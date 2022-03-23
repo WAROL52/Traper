@@ -1,7 +1,7 @@
 {
   "name": "traper-js",
   "version": "1.0.0",
-  "description": "",
+  "description": "proxy event listener",
   "main": "dist/Traper.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
