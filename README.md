@@ -21,14 +21,9 @@
 ## Install
 
 ```sh
-yarn install
+npm i traper-js
 ```
 
-## Run tests
-
-```sh
-yarn run test
-```
 
 ## Author
 
