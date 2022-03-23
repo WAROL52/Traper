@@ -144,7 +144,7 @@ class HandlerEventTrap{
         return Boolean(this.#registre[type][key])
       }
       dispatch(key, option, type) {
-        const target = this.getHandlerEvent(key,type)
+        const target = this.getHandlerEvent(key,type).filter(h=>h._key==key && h._type==type)
         if (!target) return;
         if (!Array.isArray(target)) return;
         const emit=()=>{
