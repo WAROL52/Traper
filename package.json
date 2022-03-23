@@ -1,0 +1,28 @@
+{
+  "name": "traper-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/Traper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WAROL52/Traper.git"
+  },
+  "keywords": [
+    "traper",
+    "proxy",
+    "event",
+    "eventlistener"
+  ],
+  "author": "warol52 <rabetsyrolio@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WAROL52/Traper/issues"
+  },
+  "homepage": "https://github.com/WAROL52/Traper#readme",
+  "devDependencies": {
+    "pconsole-js": "^1.0.0"
+  }
+}
